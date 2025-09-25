@@ -1,13 +1,36 @@
-- 👋 Hi, I’m @Isha1600  
-- 🎓 I’m an MSc Mathematics student passionate about Data Science, Machine Learning, and Analytics  
-- 🌱 I’m currently learning Python for Data Science, Power BI for Business Intelligence, and NLP with Transformers  
-- 👀 I’m interested in data-driven problem solving, mathematical modeling, and AI for real-world applications  
-- 💞️ I’m looking to collaborate on data science projects, open-source ML tools, and impactful analytics dashboards  
-- 📫 How to reach me: ig.ishagupta.16@gmail.com | [LinkedIn](https://www.linkedin.com/in/isha-gupta0106)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love mixing mathematics with creativity—whether it's modeling tissue heating or building dashboards!
+# 👩‍💻 Isha Gupta | Data Science & Machine Learning Portfolio  
 
-<!---
-Isha1600/Isha1600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 M.Sc. Mathematics graduate passionate about **Data Science, Machine Learning, and Analytics**.  
+💡 I combine mathematics, statistics, and computational methods to solve **real-world problems** through data-driven solutions.  
+🌱 Currently enhancing my skills in **Python for Data Science, Power BI, and NLP with Transformers**.  
+
+---
+
+## 🔹 Skills & Tools  
+- **Programming & Tools:** Python, R, SQL, MATLAB  
+- **Frameworks & Libraries:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib  
+- **Expertise:** Data Analysis, Predictive Modeling, Optimization, Visualization, Machine Learning  
+
+---
+
+## 🔹 Research & Internship  
+- **Research Intern, IIT Indore** – Mathematical modeling & numerical simulations in biomedical applications.  
+  *(Focus on interdisciplinary problem-solving and applied computation)*  
+
+---
+
+## 🔹 Certifications  
+- ✅ Machine Learning – Stanford & Deeplearning.AI (Coursera)  
+- ✅ Python for Data Science, AI & Development – IBM (Coursera)  
+- ✅ Power BI, SQL Essential Training, R for Data Science – LinkedIn Learning  
+- ✅ AI for Entrepreneurship – Intel, Skill India & NSDC  
+
+---
+
+## 🔹 Connect with Me  
+📧 Email: **ig.ishagupta.16@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/isha-gupta0106/) | [GitHub](https://github.com/Isha1600)  
+
+---
+
+⚡ *“I love combining mathematics with creativity—whether it’s modeling biological systems or building smart dashboards.”*  

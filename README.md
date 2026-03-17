@@ -37,6 +37,7 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib
 ## 🔹 Featured Projects  
 
 ### 📊 Online Retail Exploratory Data Analysis
+**Coursera** 
 Exploratory data analysis of retail transaction data to identify purchasing trends and customer behavior.
 
 🔧 Tools: Python, Pandas, Matplotlib, Seaborn  

@@ -43,6 +43,13 @@ Exploratory data analysis of retail transaction data to identify purchasing tren
 🔧 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 🔗 [https://github.com/Isha1600/Online_Retail_EDA](https://github.com/Isha1600/online-retail-eda)
 
+### 🚲 Bikeshare Demand Forecasting (Time Series)
+**Coursera**  
+Forecasted bikeshare demand using **time series models in R** to analyze usage patterns and predict future demand.
+
+🔧 **Tools:** R, Time Series Modeling, Data Visualization  
+🔗 [https://github.com/Isha1600/Bikeshare-Demand-Forecasting](https://github.com/Isha1600/Bikeshare-Demand-Forecasting)
+
 ---
 
 ### 📌 Gradient-Based Interval Optimization  

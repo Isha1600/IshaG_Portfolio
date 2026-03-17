@@ -40,8 +40,8 @@ NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Matplotlib
 **Coursera**  
 Exploratory data analysis of retail transaction data to identify purchasing trends and customer behavior.
 
-🔧 Tools: Python, Pandas, Matplotlib, Seaborn  
-🔗 GitHub: [https://github.com/Isha1600/Online_Retail_EDA](https://github.com/Isha1600/online-retail-eda)
+🔧 **Tools:** Python, Pandas, Matplotlib, Seaborn  
+🔗 [https://github.com/Isha1600/Online_Retail_EDA](https://github.com/Isha1600/online-retail-eda)
 
 ---
 

@@ -64,8 +64,9 @@ Built PDE-based models simulating temperature distribution in biological tissues
 
 ### 🤖 Fine-Tuning Large Language Models  
 **DeepLearning.AI – Coursera**  
-Applied transfer learning and domain adaptation to fine-tune transformer-based NLP models for classification tasks.  
-**Tools:** TensorFlow, PyTorch  
+Implemented fine-tuning techniques for Large Language Models (LLMs) using custom datasets to improve task-specific performance.
+🔧 **Tools:** Python, TensorFlow, PyTorch, NLP  
+🔗 [https://github.com/Isha1600/LLM-Finetuning](https://github.com/Isha1600/LLM-Finetuning/tree/main)
 
 ---
 
